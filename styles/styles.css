@@ -65,6 +65,11 @@ body {
     color: #222;
     font-size: 13px;
 }
+
+.nav_links:hover {
+    text-decoration: underline;
+}
+
 /* Main */
 .main-content {
     padding-top: 280px;
